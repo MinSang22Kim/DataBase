@@ -1,3 +1,3 @@
 ## DataBase
 
-🏫 Aout 2-2 DataBase practice
+🏫 About 2-2 DataBase practice
